@@ -26,40 +26,39 @@
     </div>
   </div>
 </nav>
-   
-   <div class="container">
+    
+    
+    <div class="container">
    <div class="row">
    <div class="col col-12 col-sm-3 col-lg-3 col-xl-3"></div>
    <div class="col col-12 col-sm-6 col-lg-6 col-xl-6">
-   <h1><center>REGISTRATION</center></h1>
+   <h1><center>CONTACT PAGE</center></h1>
+   <table class="table">
+   <tr>
+       <td>name</td>
+       <td><input type="text" class="form-control"></td>
+   </tr>
 
- 
-    <table class="table">
+   <tr>
+       <td>message</td>
+       <td><textarea name="" id="" cols="30" rows="10" class="form-control"></textarea></td>
+   </tr>
 
-    <tr>
-        <td>name</td>
-        <td><input type="text" class="form-control"></td>
-    </tr>
-    <tr>
-        <td>roll number</td>
-        <td><input type="number" class="form-control"></td>
-    </tr>
+   <tr>
+       <td>phone number</td>
+       <td><input type="number" class="form-control"></td>
+   </tr>
 
-    <tr>
-        <td>Admission number</td>
-        <td><input type="text" class="form-control"></td>
-    </tr>
+   <tr>
+       <td></td>
+       <td><button class="btn btn-primary">submit</button></td>
+   </tr>
 
-    <tr>
-        <td>College name</td>
-        <td><input type="text" class="form-control"></td>
-    </tr>
-
-    </div>
+   </div>
    <div class="col col-12 col-sm-6 col-lg-6 col-xl-6"></div>
+   </div>
+   </div>
 
-   </div> 
-   </div> 
     </table>
 </body>
 </html>
